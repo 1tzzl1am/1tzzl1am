@@ -29,26 +29,3 @@ Welcome, To my GitHub profile! I'm a passionate developer who loves building mod
 
 ![Updates](https://github-readme-stats.vercel.app/api?username=1tzzl1am&show_icons=true&theme=tokyonight&hide_border=true)
 ![Upcoming Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=1tzzl1am&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📫 Let's Connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tzzl1am)
-
-## 💡 Fun Fact
-
-⭐ From [Liam](https://github.com/1tzzl1am)
-
-
-<div align="center">
-
-<a href="https://lunastudios.xyz">
-<img src="https://komarev.com/ghpvc/?username=1tzzl1am&label=Profile%20Views&color=blue&style=for-the-badge" />
-</a>
-
-<br><br>
-
-<a href="https://lunastudios.xyz">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cf0,100:00dfd8&height=120&section=footer"/>
-</a>
-
-</div>
