@@ -41,10 +41,14 @@ Welcome, To my GitHub profile! I'm a passionate developer who loves building mod
 
 <div align="center">
 
+<a href="https://lunastudios.xyz">
 <img src="https://komarev.com/ghpvc/?username=1tzzl1am&label=Profile%20Views&color=blue&style=for-the-badge" />
+</a>
 
-<br>
+<br><br>
 
+<a href="https://lunastudios.xyz">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007cf0,100:00dfd8&height=120&section=footer"/>
+</a>
 
 </div>
